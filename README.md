@@ -36,12 +36,8 @@ Welcome to my GitHub profile! I'm passionate about analyzing data, building inte
 - Analyzed flight data to identify patterns, trends, and useful insights.
 - Performed data preparation and exploratory analysis.
 - Created visualizations to communicate findings.
-- **Dataset:** [View Dataset](PASTE_DATASET_LINK)
-- **Project:** [View Repository](PASTE_REPOSITORY_LINK)
-
-### 📈 Data Analysis & Visualization
-- Explore my data analytics projects, dashboards, and analytical workflows.
-- **Projects:** [Explore Repositories](PASTE_ANALYTICS_REPOSITORY_LINK)
+- **Dataset:** [View Dataset]([PASTE_DATASET_LINK](https://drive.google.com/file/d/1jDTIq2emcoP25OosHG7rfRneaLJMi73E/view?usp=sharing))
+- **Project:** [View Repository]([PASTE_REPOSITORY_LINK](https://github.com/alokv0856/flight-data-analysis))
 
 ## 💻 Development Projects
 
