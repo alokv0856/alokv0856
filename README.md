@@ -36,31 +36,31 @@ Welcome to my GitHub profile! I'm passionate about analyzing data, building inte
 - Analyzed flight data to identify patterns, trends, and useful insights.
 - Performed data preparation and exploratory analysis.
 - Created visualizations to communicate findings.
-- **Dataset:** [View Dataset]([PASTE_DATASET_LINK](https://drive.google.com/file/d/1jDTIq2emcoP25OosHG7rfRneaLJMi73E/view?usp=sharing))
-- **Project:** [View Repository]([PASTE_REPOSITORY_LINK](https://github.com/alokv0856/flight-data-analysis))
+- **Dataset:** [View Dataset](https://drive.google.com/file/d/1jDTIq2emcoP25OosHG7rfRneaLJMi73E/view?usp=sharing)
+- **Project:** [View Repository](https://github.com/alokv0856/flight-data-analysis)
 
 ## 💻 Development Projects
 
 ### 👨‍💼 Employee Performance Analytics & Recommendation System
 - Developed a web application for employee performance analysis and recommendations.
 - **Technologies:** MongoDB, Express.js, React.js, Node.js
-- **Project:** [View Repository](PASTE_REPOSITORY_LINK)
+- **Project:** [View Repository](https://github.com/alokv0856/Employee_Performance)
 
 ### 💰 Personal Expense Tracker
 - Built a web application for managing and tracking personal expenses.
 - Implemented user authentication and expense management functionality.
 - **Technologies:** React.js, Node.js, Express.js, MongoDB
-- **Project:** [View Repository](PASTE_REPOSITORY_LINK)
+- **Project:** [View Repository](https://github.com/alokv0856/P_Expense)
 
 ## ☁️ Certifications & Learning
 
+- AWS Solutions Architect Associate
 - AWS Academy Cloud Foundations
-- Currently learning AWS Solutions Architect concepts
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [My LinkedIn](PASTE_LINKEDIN_URL)
-- **Email:** PASTE_YOUR_EMAIL
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/alok-verma-8b571b328/?isSelfProfile=true)
+- **Email:** alokv0856@gmail.com
 
 ---
 
